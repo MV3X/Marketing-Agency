@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'MM';
+    src: url(../fonts/Manrope-Medium.ttf);
+}
+@font-face {
+    font-family: 'MSB';
+    src: url(../fonts/Manrope-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'PR';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'PM';
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: 'PS';
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'PB';
+    src: url(../fonts/Poppins-Bold.ttf);
+}
