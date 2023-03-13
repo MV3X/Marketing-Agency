@@ -22,3 +22,27 @@
     font-family: 'PB';
     src: url(../fonts/Poppins-Bold.ttf);
 }
+@font-face {
+    font-family: 'SR';
+    src: url(../fonts/Sriracha.ttf);
+}
+@font-face {
+    font-family: 'FR';
+    src: url(../fonts/FingerPaint-Regular.ttf);
+}
+@font-face {
+    font-family: 'ZR';
+    src: url(../fonts/Zeyada-Regular.ttf);
+}
+@font-face {
+    font-family: 'MR';
+    src: url(../fonts/Molle-Italic.ttf);
+}
+@font-face {
+    font-family: 'AR';
+    src: url(../fonts/Akronim-Regular.ttf);
+}
+@font-face {
+    font-family: 'BR';
+    src: url(../fonts/Balloon.ttf);
+}
